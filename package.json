@@ -1,6 +1,6 @@
 {
   "name": "dummy-tagged-release",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This repo is for finding the right approach to tag releases so they can be consumed via a git url.",
   "main": "index.js",
   "scripts": {
