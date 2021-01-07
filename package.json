@@ -1,0 +1,19 @@
+{
+  "name": "dummy-tagged-release",
+  "version": "1.0.0",
+  "description": "This repo is for finding the right approach to tag releases so they can be consumed via a git url.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iryan2/dummy-tagged-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iryan2/dummy-tagged-release/issues"
+  },
+  "homepage": "https://github.com/iryan2/dummy-tagged-release#readme"
+}
